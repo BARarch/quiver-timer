@@ -13,3 +13,7 @@ def timeit(method):
             print ("{:.2f} ms".format((te - ts) * 1000))
         return result
     return timed
+
+def howfast_will_it_update():
+    return None
+    
